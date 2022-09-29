@@ -10,11 +10,11 @@ Finally this project is in the bin 🗑️
 
 ## Contributing
 
-Please go to [kamiblue.org/contributing](https://kamiblue.org/contributing) for building instructions.
+Please go to nahui for building instructions.
 
 ## Thank you
 
-[zeroeightysix](https://github.com/zeroeightysix) for the original [KAMI](https://github.com/zeroeightysix/KAMI)
+nikita pidor for the original [KAMI](https://github.com/zeroeightysix/KAMI)
 
 [ronmamo](https://github.com/ronmamo/) for [Reflections](https://github.com/ronmamo/reflections)
 
